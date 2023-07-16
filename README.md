@@ -6,4 +6,4 @@ Folder for this homework assignment includes a Jupyter notebook with the main sc
 
 Three observations from the calculations.
 
-Used ChatGPT for assistance with creating box plot and  from string to float inside the "Scores by School Spending" and "Scores by School Size" sections.
+Used ChatGPT for assistance with creating and styling marker in box plot and getting a specific mouse id for the line plot.
