@@ -2,7 +2,7 @@
 
 This includes:
 
-Folder for this homework assignment includes a Jupyter notebook with the main script to run for analysis.
+Folder for this homework assignment which has a Jupyter notebook with the main script to run for analysis.
 
 Three observations from the calculations.
 
